@@ -8,7 +8,7 @@ A script to convert Apple Live Photos (.livp) files to standard JPG images, addr
    - `unzip`
    - Either `sips` (built-in macOS tool) or `ImageMagick`
 
-2. Install required tools using Homebrew:
+2. (Optional) Install required tools using Homebrew:
    ```bash
    brew install unzip imagemagick
    ```
@@ -52,4 +52,6 @@ Contributions are welcome! If you find an issue or have a suggestion, please ope
 
 ## License
 
-MIT License
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; version 2 of the License.
+
+*Kelvin Quee <kelvin@quee.org>*
